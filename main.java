@@ -4,10 +4,15 @@ public class Alunos {
     private int idade;
     private double Altura;
     private double Peso;
-    public Status;
+    public boolean Status_Active;
 }
 
 public class Planos {
-    
+
     
 }
+
+if Aluno status is True:
+    Alunos_ativos ++
+else: 
+    Alunos_Desativados
