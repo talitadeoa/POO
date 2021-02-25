@@ -16,3 +16,5 @@ if Aluno status is True:
     Alunos_ativos ++
 else: 
     Alunos_Desativados
+
+    System.out.println()
