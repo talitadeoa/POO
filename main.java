@@ -10,11 +10,11 @@ public class Alunos {
         return Plano;
 }
 
+public aluno = new Alunos()
 
+    if Aluno status is True
+        Alunos_ativos ++
+    else: 
+        Alunos_Desativados
 
-if Aluno status is True
-    Alunos_ativos ++
-else: 
-    Alunos_Desativados
-
-    System.out.println()
+        System.out.println()
