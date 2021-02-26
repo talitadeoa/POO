@@ -7,12 +7,9 @@ public class Alunos {
     public boolean Status_Active;
 }
 
-public class Planos {
 
-    
-}
 
-if Aluno status is True:
+if Aluno status is True
     Alunos_ativos ++
 else: 
     Alunos_Desativados
