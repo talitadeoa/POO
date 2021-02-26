@@ -1,4 +1,7 @@
-public class planos {
-    public string PlanoA;
-    public string PlanoB;
+public class Planos {
+    public string Plano;
+
+    public void setPlano(String nome_produto) {
+    }
+
 }
