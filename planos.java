@@ -1,4 +1,4 @@
 public class planos {
-    PlanoA
-    PlanoB
+    public string PlanoA;
+    public string PlanoB;
 }

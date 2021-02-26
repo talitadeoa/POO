@@ -5,6 +5,9 @@ public class Alunos {
     private double Altura;
     private double Peso;
     public boolean Status_Active;
+
+    public String getPlano() {
+        return Plano;
 }
 
 
